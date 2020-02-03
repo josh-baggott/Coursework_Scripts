@@ -1,0 +1,338 @@
+{
+  "Carboxylic Acid \u2192 Ester": [
+    "Esterification",
+    "Alcohol",
+    "Ester & Water",
+    "React with conc. Sulfuric Acid (H\u2082SO\u2084)"
+  ],
+  "Carboxylic Acid \u2192 Sodium Carboxylate Salt": [
+    "Hydrolysis",
+    "Sodium Hydroxide (NaOH)",
+    "Sodium Carboxylate Salt & Water",
+    "N/A"
+  ],
+  "Carboxylic Acid \u2192 Alcohol": [
+    "Reduction",
+    "Reducing Agent (LiAlH\u2084 Solution)",
+    "Primary Alcohol",
+    "React in Dry Ether"
+  ],
+  "Carboxylic Acid \u2192 Acyl Chloride": [
+    "Chlorination/Addition/Elimination",
+    "Phosphorous Pentachloride (PCl\u2085)",
+    "Acyl Chloride, POCl\u2083 & HCL",
+    "N/A"
+  ],
+  "Ester \u2192 Carboxylic Acid": [
+    "Acid Hydrolysis",
+    "Water",
+    "Carboxylic Acid & Alcohol",
+    "Reflux with H\u207a Ions"
+  ],
+  "Ester \u2192 Sodium Carboxylate Salt": [
+    "Base Hydrolysis",
+    "Sodium Hydroxide (NaOH)",
+    "Sodium Carboxylate Salt & Alcohol",
+    "React Under Reflux"
+  ],
+  "Ester \u2192 Other Ester": [
+    "Transesterficiation",
+    "Ester & Alcohol",
+    "Other Ester & Alcohol",
+    "React in the presence of an acid or a base"
+  ],
+  "Ester \u2192 Alcohol": [
+    "Acid Hydrolysis",
+    "Water",
+    "Alcohol & Carboxylic Acid",
+    "Reflux with H\u208a Ions"
+  ],
+  "Alcohol \u2192 Aldehyde": [
+    "Oxidation of Primary Alcohol",
+    "Acidified Na\u2082Cr\u2082O\u2087",
+    "Aldehyde",
+    "Gentle Heat Then Distill"
+  ],
+  "Alcohol \u2192 Carboxylic Acid": [
+    "Oxidation of Primary Alcohol",
+    "Acidified Na\u2082Cr\u2082O\u2087",
+    "Carboxylic Acid",
+    "Heat Violently Under Reflux"
+  ],
+  "Alcohol \u2192 Ketone": [
+    "Oxidation of Secondary Alcohol",
+    "Acidified Na\u2082Cr\u2082O\u2087",
+    "Ketone",
+    "Heat Violently Under Reflux"
+  ],
+  "Alcohol \u2192 Ester": [
+    "Acid Hydrolysis (Reversed)",
+    "Carboxylic Acid",
+    "Ester & Water",
+    "Reflux with H\u207a Ions"
+  ],
+  "Alcohol \u2192 Alkene": [
+    "Elimination",
+    "Phosphoric Acid (H\u2083PO\u2084) or Sulfuric Acid (H\u2082SO\u2084)",
+    "Alkene, Water & H\u207a Ion",
+    "Heat at 180 Celcuis under reflux"
+  ],
+  "Alcohol \u2192 Carbon Dioxide + Water + Energy": [
+    "Combustion",
+    "Oxygen",
+    "Carbon Dioxide & Water",
+    "High Temperature & Excess Oxygen"
+  ],
+  "Alcohol \u2192 Halogenoalkane": [
+    "Halogenation",
+    "PCl\u2085",
+    "Halogenoalkane, POCl\u2083 & Acid",
+    "Room Temperature"
+  ],
+  "Acyl Chloride \u2192 Carboxylic Acid": [
+    "Reaction with Water",
+    "Water",
+    "Carboxylic Acid & HCl",
+    "Room Temperature"
+  ],
+  "Acyl Chloride \u2192 Ester": [
+    "Reaction with Alcohol",
+    "Alcohol",
+    "Ester & HCl",
+    "Room Temperature"
+  ],
+  "Acyl Chloride \u2192 Secondary or Tertiary Amide": [
+    "Reaction with Amine",
+    "Amine",
+    "Secondary or Tertiary Amide & HCl",
+    "Room Temperature"
+  ],
+  "Acyl Chloride \u2192 Primary Amide": [
+    "Reaction with Ammonia",
+    "Ammonia (NH\u2083)",
+    "Primary Amide & HCl",
+    "React in a concentrated solution of aqueous ammonia"
+  ],
+  "Aldehyde \u2192 Carboxylic Acid": [
+    "Oxidation",
+    "Acidified Na\u2082Cr\u2082O\u2087",
+    "Carboxylic Acid",
+    "Heat Violently Under Reflux"
+  ],
+  "Aldehyde \u2192 Alcohol": [
+    "Reduction of Primary Alcohol",
+    "Reducing Agent (LiAlH\u2084 Solution)",
+    "Primary Alcohol",
+    "React in Dry Ether"
+  ],
+  "Aldehyde \u2192 Silver Mirror": [
+    "Oxidation with Tollen's Reagent",
+    "Tollen's Reagent",
+    "Silver Mirror (Ag\u208d\u209b\u208e) & Carboxylic Acid",
+    "Prepare Tollen's Reagent in situ & Heat"
+  ],
+  "Aldehyde \u2192 Brick Red Precipitate": [
+    "Reaction with Fehling's Solution",
+    "Fehling's Solution",
+    "Brick Red Precipitate (Copper Oxide (CuO)",
+    "Prepare Fehling's by mixing aqueous Copper Sulfate (Cu\u2082SO\u2084) and 2,3-dihydroxybutanedioate"
+  ],
+  "Aldehyde \u2192 Iodoform": [
+    "Reaction with Iodine",
+    "Iodine & OH\u207b Ion",
+    "R-COO\u207b Ion, CHI\u2083, Iodide Ion & Water",
+    "Heat in Presence of an Alkali & Must Contain CH\u2083CO- Group"
+  ],
+  "Aldehyde \u2192 Bright Orange Solid": [
+    "Reaction with 2,4-DNPH",
+    "2,4-DNPH",
+    "Bright Orange SOlud (2,4-dinitrophenylhydrazone)",
+    "N/A"
+  ],
+  "Aldehyde \u2192 Hydroxynitrile": [
+    "Reaction with HCN or KCN",
+    "HCN or KCN",
+    "Hydroxynitrile",
+    "N/A"
+  ],
+  "Alkene \u2192 Alcohol": [
+    "Direct Hydration",
+    "Steam (330\u00b0C)",
+    "Alcohol",
+    "High Pressure (6MPa) & Phosphoric Acid Catalyst (H\u2083PO\u2084)"
+  ],
+  "Alkene \u2192 Hydroxynitrile": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Alkene \u2192 Polymer": [
+    "Polymerisation",
+    "Peroxide",
+    "Polymer",
+    "High Pressure, High Temperature & Initiator (Peroxide)"
+  ],
+  "Alkene \u2192 Diol": [
+    "Oxidation",
+    "KMnO\u2084 in Acidified Solution",
+    "Diol",
+    "Room Temperature"
+  ],
+  "Alkene \u2192 Alkane": [
+    "Hydrogination",
+    "Hydrogen",
+    "Alkane",
+    "150\u00b0C & Nickel Catalyst"
+  ],
+  "Alkene \u2192 Dihalogenoalkane": [
+    "Electrophilic Addition",
+    "Halogen",
+    "Dihalogenoalkane",
+    "Room Temperature"
+  ],
+  "Alkene \u2192 Carbon Dioxide + Water + Energy": [
+    "Combustion",
+    "Oxygen",
+    "Carbon Dioxide & Water",
+    "High Temperature & Excess Oxygen"
+  ],
+  "Alkene \u2192 Halogenoalkane": [
+    "Electrophilic Addition",
+    "Hydrogen Halide",
+    "Halogenoalkane",
+    "Room Temperature"
+  ],
+  "Alkane \u2192 Carbon Dioxide + Water + Energy": [
+    "Combustion",
+    "Oxygen",
+    "Carbon Dioxide & Water",
+    "High Temperature & Excess Oxygen"
+  ],
+  "Alkane \u2192 Halogenoalkane": [
+    "Free Radical Substitution",
+    "Halogen",
+    "Halogenoalkane & Acid (e.g. HCl)",
+    "UV Light"
+  ],
+  "Ketone \u2192 Alcohol": [
+    "Reduction of Secondary Alcohol",
+    "Reducing Agent (LiAlH\u2084 Solution)",
+    "Secondary Alcohol",
+    "React in Dry Ether"
+  ],
+  "Ketone \u2192 Iodoform": [
+    "Reaction with Iodine",
+    "Iodine & OH\u207b Ion",
+    "R-COO\u207b Ion, CHI\u2083, Iodide Ion & Water",
+    "Heat in Presence of an Alkali & Must Contain CH\u2083CO- Group"
+  ],
+  "Ketone \u2192 Bright Orange Solid": [
+    "Reaction with 2,4-DNPH",
+    "2,4-DNPH",
+    "Bright Orange SOlud (2,4-dinitrophenylhydrazone)",
+    "N/A"
+  ],
+  "Ketone \u2192 Hydroxynitrile": [
+    "Reaction with HCN or KCN",
+    "HCN or KCN",
+    "Hydroxynitrile",
+    "N/A"
+  ],
+  "Primary Amide \u2192 Carboxylic Acid": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Nitrile \u2192 Carboxylic Acid": [
+    "Reaction with Hydrochloric Acid",
+    "HCl & Water",
+    "Carboxylic Acid & Ammonium Chloride (NH\u2084Cl)",
+    "N/A"
+  ],
+  "Nitrile \u2192 Amine": [
+    "Reduction",
+    "Reducing Agent (LiAlH₄ Solution)",
+    "Amine",
+    "Ni Catalyst, High Temperature & High Pressure"
+  ],
+  "Halogenoalkane \u2192 Alcohol": [
+    "Nucleophilic Substitution",
+    "Aqueous Potassium Hydroxide (KOH)",
+    "Alcohol & Halide Ion",
+    "Heat Under Reflux"
+  ],
+  "Halogenoalkane \u2192 Alkene": [
+    "Elimination",
+    "Ethanolic Potassium Hydroxide (KOH)",
+    "Alkene, Water & Halide Ion",
+    "Heat Under Reflux"
+  ],
+  "Halogenoalkane \u2192 Nitrile": [
+    "Nucleophilic Substitution",
+    "Ethanolic Potassium Cyanide (KCN)",
+    "Nitrile & Halide Ion",
+    "Heat Under Reflux"
+  ],
+  "Halogenoalkane \u2192 Amine": [
+    "Nucleophilic Substitution",
+    "Concentrated Aqueous Ammonia (NH\u2083)",
+    "Amine & Ammonium Ion (NH\u2084\u207a)",
+    "Heat to 100\u00b0C in a Sealed Glass Tube with Excess NH\u2083"
+  ],
+  "Halogenoalkane \u2192 Grignard Reagent": [
+    "N/A",
+    "Magnesium",
+    "Grignard Reagent",
+    "Reflux in Dry Ether"
+  ],
+  "Amine \u2192 Secondary or Tertiary Amide": [
+    "Nucleophilic Addition/Elimination",
+    "Acyl Chloride",
+    "Secondary or Tertiary Amide & HCl",
+    "N/A"
+  ],
+  "Amine \u2192 Copper Complex Ion": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Amine \u2192 Salts": [
+    "Neutralisation",
+    "",
+    "",
+    ""
+  ],
+  "Amine \u2192 Secondary Amine": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Grignard Reagent \u2192 Carboxylic Acid": [
+    "Reaction with CO\u2082",
+    "Carbon Dioxide",
+    "Carboxylic Acid & Mg-Halide-Cl",
+    "Step 1: React in Dry Ether     Step 2: Add dilute HCL"
+  ],
+  "Grignard Reagent \u2192 Primary Alcohol": [
+    "Reaction with Carbonyls (Aldehydes or Ketones)",
+    "Carbonyl",
+    "Alcohol & Mg-Halide-Cl",
+    "Step 1: React in Dry Ether     Step 2: Add dilute HCL"
+  ],
+  "Grignard Reagent \u2192 Secondary Alcohol": [
+    "Reaction with Carbonyls (Aldehydes or Ketones)",
+    "Carbonyl",
+    "Alcohol & Mg-Halide-Cl",
+    "Step 1: React in Dry Ether     Step 2: Add dilute HCL"
+  ],
+  "Grignard Reagent \u2192 Tertiary Alcohol": [
+    "Reaction with Carbonyls (Aldehydes or Ketones)",
+    "Carbonyl",
+    "Alcohol & Mg-Halide-Cl",
+    "Step 1: React in Dry Ether     Step 2: Add dilute HCL"
+  ]
+}

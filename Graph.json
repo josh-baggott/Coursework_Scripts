@@ -1,0 +1,103 @@
+{
+  "Carboxylic Acid": [
+    "Ester",
+    "Sodium Carboxylate Salt",
+    "Alcohol",
+    "Acyl or Acid Halide"
+  ],
+  "Ester": [
+    "Carboxylic Acid",
+    "Sodium Carboxylate Salt",
+    "Other Ester",
+    "Alcohol"
+  ],
+  "Sodium Carboxylate Salt": [],
+  "Other Ester": [],
+  "Alcohol": [
+    "Carboxylic Acid",
+    "Aldehyde",
+    "Ketone",
+    "Ester",
+    "Alkene",
+    "Carbon Dioxide + Water + Energy",
+    "Halogenoalkane"
+  ],
+  "Hydroxy Halide": [],
+  "Polymer": [],
+  "Acyl or Acid Halide": [
+    "Carboxylic Acid",
+    "Ester",
+    "Secondary or Tertiary Amide",
+    "Primary Amide"
+  ],
+  "Silver Mirror": [],
+  "Aldehyde": [
+    "Carboxylic Acid",
+    "Alcohol",
+    "Silver Mirror",
+    "Brick Red Precipitate",
+    "Iodoform",
+    "Bright Orange Solid",
+    "Hydroxynitrile"
+  ],
+  "Diol": [],
+  "Brick Red Precipitate": [],
+  "Iodoform": [],
+  "Alkene": [
+    "Alcohol",
+    "Hydroxy Halide",
+    "Polymer",
+    "Diol",
+    "Alkane",
+    "Dihalogenoalkane",
+    "Carbon Dioxide + Water + Energy",
+    "Halogenoalkane"
+  ],
+  "Alkane": [
+    "Carbon Dioxide + Water + Energy",
+    "Halogenoalkane"
+  ],
+  "Bright Orange Solid": [],
+  "Ketone": [
+    "Alcohol",
+    "Iodoform",
+    "Bright Orange Solid",
+    "Hydroxynitrile"
+  ],
+  "Dihalogenoalkane": [],
+  "Carbon Dioxide + Water + Energy": [],
+  "Secondary or Tertiary Amide": [],
+  "Primary Amide": [
+    "Carboxylic Acid"
+  ],
+  "Nitrile": [
+    "Carboxylic Acid",
+    "Amine"
+  ],
+  "Hydroxynitrile": [],
+  "Halogenoalkane": [
+    "Alcohol",
+    "Alkene",
+    "Nitrile",
+    "Amine",
+    "Grignard Reagent"
+  ],
+  "Copper Complex Ion": [],
+  "Amine": [
+    "Secondary or Tertiary Amide",
+    "Copper Complex Ion",
+    "Salts",
+    "Secondary Amine"
+  ],
+  "Salts": [],
+  "Secondary Amine": [],
+  "Primary Alcohol": [],
+  "Secondary Alcohol": [],
+  "Grignard Reagent": [
+    "Carboxylic Acid",
+    "Primary Alcohol",
+    "Secondary Alcohol",
+    "Tertiary Alcohol"
+  ],
+  "Tertiary Alcohol": []
+}
